@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm kabix09</h1>
-<h3 align="center">My name is kabix09 and I'm a backend developer with wide variety of web technologies. I'm from Poland, living in Poznań and currently working as Backend Developer. In my spare time, I am passionate about data analytics, recommender systems and last time also mechanic learning a little</h3>
+<h3 align="center">My name is kabix09 and I'm a backend developer with wide variety of web technologies. I'm from Poland, living in Poznań and currently working as PHP Backend Developer. In my spare time, I am passionate about data analytics, recommender systems and last time also mechanic learning a little</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
